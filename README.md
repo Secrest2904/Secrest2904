@@ -54,7 +54,7 @@ Aims to combine low-level analysis with practical interface design for education
 ---
 
 ### Connect
-[LinkedIn](#) (https://www.linkedin.com/in/adam-secrest-4ba793272/)
-[Email](#) (Secrest1314@gmail.com)
+LinkedIn https://www.linkedin.com/in/adam-secrest-4ba793272/ 
+Email Secrest1314@gmail.com
 
 ---
