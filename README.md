@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-I’m a Computer Science graduate with a concentration in Cybersecurity from California State University, Fullerton.  
+I’m a Computer Science student with a concentration in Cybersecurity from California State University, Fullerton.  
 My interests center around systems, networking, and security — with experience spanning compiler design, antivirus development, and network-based software. I actively study through platforms like TryHackMe and am currently preparing for the CompTIA Network+ certification.  
 
 I enjoy building tools that make complex systems interactive and engaging, from practical cybersecurity utilities to creative applications in virtual and AI-driven environments.
