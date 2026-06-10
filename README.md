@@ -37,6 +37,7 @@ Features a dynamic “!penalize” system and blackjack mini-game, with plans fo
 
 #### • TALUS Secure file sharing tool
 CSUF Computer Science Capstone Project
+
 I lead a team to develop a secure online file sharing tool that utilizes many areas of cybersecurity including:
 RSA key exchange, AES-GCM encryption/decryption, session keys, password hashing, PostgreSQL credential storage, sender/receiver authentication, WebSocket secure message flow, access requirements, time-based restrictions, IP-based restrictions, file watermarking, audit logging, login/account creation logging, sender request logging, readable log export, MITM/key management testing, environment variables, and server-side package deletion/cleanup.
 
