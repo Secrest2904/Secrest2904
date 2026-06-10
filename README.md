@@ -31,13 +31,14 @@ Demonstrates efficient memory and file handling for lossless data compression.
 Created multiple worlds and avatars in Blender with custom textures and imported assets.  
 Focus on interaction design, optimization for VR performance, and integration of animation and full-body tracking.  
 
-#### • Discord Interactive Bot *(coming soon as pinned project)*
+#### • Discord Interactive Bot
 A multifunctional Discord bot including interactive games, moderation utilities, and user engagement tools.  
 Features a dynamic “!penalize” system and blackjack mini-game, with plans for an in-memory economy.
 
-#### • Antivirus Project *(in development — look forward to this!)*
-An in-progress antivirus tool focused on behavioral detection and process monitoring.  
-Aims to combine low-level analysis with practical interface design for educational and personal use.
+#### • TALUS Secure file sharing tool
+CSUF Computer Science Capstone Project
+I lead a team to develop a secure online file sharing tool that utilizes many areas of cybersecurity including:
+RSA key exchange, AES-GCM encryption/decryption, session keys, password hashing, PostgreSQL credential storage, sender/receiver authentication, WebSocket secure message flow, access requirements, time-based restrictions, IP-based restrictions, file watermarking, audit logging, login/account creation logging, sender request logging, readable log export, MITM/key management testing, environment variables, and server-side package deletion/cleanup.
 
 ---
 
